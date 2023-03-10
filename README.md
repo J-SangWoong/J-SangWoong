@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+제 이름은 정상웅이고 백엔드를 공부하고 있습니다.🌱
+현재 1년차로 재직중 이며 여러가지 배우고 있습니다.
+📫Email - foddnddl@gmail.com
 <!--
 **J-SangWoong/J-SangWoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
